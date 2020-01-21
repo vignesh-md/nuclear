@@ -191,6 +191,7 @@
     "user": "User:",
     "youtube": "Youtube",
     "yt-api-key": "Youtube API Key",
+    "invidious-url": "Invidious instance url",
     "downloads": "Downloads",
     "downloads-dir": "Downloads directory",
     "downloads-dir-button": "Choose a directory..."
